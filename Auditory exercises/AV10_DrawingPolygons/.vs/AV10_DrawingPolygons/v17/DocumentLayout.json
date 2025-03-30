@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8003C7CF-B8A5-41AC-982B-3E396E092FE7}|AV10_DrawingPolygons\\AV10_DrawingPolygons.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\av10_drawingpolygons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8003C7CF-B8A5-41AC-982B-3E396E092FE7}|AV10_DrawingPolygons\\AV10_DrawingPolygons.csproj|solutionrelative:av10_drawingpolygons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8003C7CF-B8A5-41AC-982B-3E396E092FE7}|AV10_DrawingPolygons\\AV10_DrawingPolygons.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\av10_drawingpolygons\\av10_drawingpolygons\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8003C7CF-B8A5-41AC-982B-3E396E092FE7}|AV10_DrawingPolygons\\AV10_DrawingPolygons.csproj|solutionrelative:av10_drawingpolygons\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8003C7CF-B8A5-41AC-982B-3E396E092FE7}|AV10_DrawingPolygons\\AV10_DrawingPolygons.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\av10_drawingpolygons\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8003C7CF-B8A5-41AC-982B-3E396E092FE7}|AV10_DrawingPolygons\\AV10_DrawingPolygons.csproj|solutionrelative:av10_drawingpolygons\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8003C7CF-B8A5-41AC-982B-3E396E092FE7}|AV10_DrawingPolygons\\AV10_DrawingPolygons.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\av10_drawingpolygons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8003C7CF-B8A5-41AC-982B-3E396E092FE7}|AV10_DrawingPolygons\\AV10_DrawingPolygons.csproj|solutionrelative:av10_drawingpolygons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\AV10_DrawingPolygons\\Scene.cs",
+              "RelativeDocumentMoniker": "AV10_DrawingPolygons\\Scene.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\AV10_DrawingPolygons\\Scene.cs",
+              "RelativeToolTip": "AV10_DrawingPolygons\\Scene.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:12:23.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\AV10_DrawingPolygons\\Form1.cs",
+              "RelativeDocumentMoniker": "AV10_DrawingPolygons\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\AV10_DrawingPolygons\\Form1.cs",
+              "RelativeToolTip": "AV10_DrawingPolygons\\Form1.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:40:25.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\AV10_DrawingPolygons\\Polygon.cs",
+              "RelativeDocumentMoniker": "AV10_DrawingPolygons\\Polygon.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\AV10_DrawingPolygons\\Polygon.cs",
+              "RelativeToolTip": "AV10_DrawingPolygons\\Polygon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:24:16.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\AV10_DrawingPolygons\\Form1.cs",
+              "RelativeDocumentMoniker": "AV10_DrawingPolygons\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\AV10_DrawingPolygons\\AV10_DrawingPolygons\\Form1.cs [Design]",
+              "RelativeToolTip": "AV10_DrawingPolygons\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:04:35.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

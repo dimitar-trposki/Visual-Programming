@@ -1,0 +1,7 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV3_SongAlbumConsoleApp\AV3_SongAlbumConsoleApp\bin\Debug\AV3_SongAlbumConsoleApp.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV3_SongAlbumConsoleApp\AV3_SongAlbumConsoleApp\bin\Debug\AV3_SongAlbumConsoleApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV3_SongAlbumConsoleApp\AV3_SongAlbumConsoleApp\bin\Debug\AV3_SongAlbumConsoleApp.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV3_SongAlbumConsoleApp\AV3_SongAlbumConsoleApp\obj\Debug\AV3_SongAlbumConsoleApp.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV3_SongAlbumConsoleApp\AV3_SongAlbumConsoleApp\obj\Debug\AV3_SongAlbumConsoleApp.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV3_SongAlbumConsoleApp\AV3_SongAlbumConsoleApp\obj\Debug\AV3_SongAlbumConsoleApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV3_SongAlbumConsoleApp\AV3_SongAlbumConsoleApp\obj\Debug\AV3_SongAlbumConsoleApp.pdb

@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\bin\Debug\I3_Library.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\bin\Debug\I3_Library.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\bin\Debug\I3_Library.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\obj\Debug\I3_Library.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\obj\Debug\I3_Library.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\obj\Debug\I3_Library.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\obj\Debug\I3_Library.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\obj\Debug\I3_Library.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\obj\Debug\I3_Library.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I3_Library\I3_Library\obj\Debug\I3_Library.pdb

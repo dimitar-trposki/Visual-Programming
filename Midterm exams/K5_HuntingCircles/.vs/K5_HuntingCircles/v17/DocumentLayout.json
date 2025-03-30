@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65625094-4CC2-42B5-A791-3360A6161F83}|K5_HuntingCircles\\K5_HuntingCircles.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\k5_huntingcircles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65625094-4CC2-42B5-A791-3360A6161F83}|K5_HuntingCircles\\K5_HuntingCircles.csproj|solutionrelative:k5_huntingcircles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65625094-4CC2-42B5-A791-3360A6161F83}|K5_HuntingCircles\\K5_HuntingCircles.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\k5_huntingcircles\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65625094-4CC2-42B5-A791-3360A6161F83}|K5_HuntingCircles\\K5_HuntingCircles.csproj|solutionrelative:k5_huntingcircles\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65625094-4CC2-42B5-A791-3360A6161F83}|K5_HuntingCircles\\K5_HuntingCircles.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\k5_huntingcircles\\k5_huntingcircles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65625094-4CC2-42B5-A791-3360A6161F83}|K5_HuntingCircles\\K5_HuntingCircles.csproj|solutionrelative:k5_huntingcircles\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65625094-4CC2-42B5-A791-3360A6161F83}|K5_HuntingCircles\\K5_HuntingCircles.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\k5_huntingcircles\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65625094-4CC2-42B5-A791-3360A6161F83}|K5_HuntingCircles\\K5_HuntingCircles.csproj|solutionrelative:k5_huntingcircles\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\K5_HuntingCircles\\Scene.cs",
+              "RelativeDocumentMoniker": "K5_HuntingCircles\\Scene.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\K5_HuntingCircles\\Scene.cs",
+              "RelativeToolTip": "K5_HuntingCircles\\Scene.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAuwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:11:50.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\K5_HuntingCircles\\Form1.cs",
+              "RelativeDocumentMoniker": "K5_HuntingCircles\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\K5_HuntingCircles\\Form1.cs",
+              "RelativeToolTip": "K5_HuntingCircles\\Form1.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAYwF4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:11:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\K5_HuntingCircles\\Circle.cs",
+              "RelativeDocumentMoniker": "K5_HuntingCircles\\Circle.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\K5_HuntingCircles\\Circle.cs",
+              "RelativeToolTip": "K5_HuntingCircles\\Circle.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:05:57.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\K5_HuntingCircles\\Form1.cs",
+              "RelativeDocumentMoniker": "K5_HuntingCircles\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K5_HuntingCircles\\K5_HuntingCircles\\Form1.cs [Design]",
+              "RelativeToolTip": "K5_HuntingCircles\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:13:25.207Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

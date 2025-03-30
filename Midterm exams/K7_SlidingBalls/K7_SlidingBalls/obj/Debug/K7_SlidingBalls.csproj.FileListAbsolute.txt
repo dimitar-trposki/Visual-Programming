@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\bin\Debug\K7_SlidingBalls.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\bin\Debug\K7_SlidingBalls.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\bin\Debug\K7_SlidingBalls.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\obj\Debug\K7_SlidingBalls.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\obj\Debug\K7_SlidingBalls.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\obj\Debug\K7_SlidingBalls.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\obj\Debug\K7_SlidingBalls.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\obj\Debug\K7_SlidingBalls.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\obj\Debug\K7_SlidingBalls.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K7_SlidingBalls\K7_SlidingBalls\obj\Debug\K7_SlidingBalls.pdb

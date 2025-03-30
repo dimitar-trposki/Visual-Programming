@@ -1,0 +1,12 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\bin\Debug\I1_Airports.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\bin\Debug\I1_Airports.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\bin\Debug\I1_Airports.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.NewAirport.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I1_Airports\I1_Airports\obj\Debug\I1_Airports.NewDestination.resources

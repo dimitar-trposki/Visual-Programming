@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\\u0418\u0441\u043F\u0438\u0442\u043D\u0438\\I1_Airports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D9E30-2037-44FF-89FF-D99BEC496AEE}|I1_Airports\\I1_Airports.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\\u0438\u0441\u043F\u0438\u0442\u043D\u0438\\i1_airports\\i1_airports\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79D9E30-2037-44FF-89FF-D99BEC496AEE}|I1_Airports\\I1_Airports.csproj|solutionrelative:i1_airports\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79D9E30-2037-44FF-89FF-D99BEC496AEE}|I1_Airports\\I1_Airports.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\\u0438\u0441\u043F\u0438\u0442\u043D\u0438\\i1_airports\\i1_airports\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D79D9E30-2037-44FF-89FF-D99BEC496AEE}|I1_Airports\\I1_Airports.csproj|solutionrelative:i1_airports\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\\u0418\u0441\u043F\u0438\u0442\u043D\u0438\\I1_Airports\\I1_Airports\\Form1.cs",
+              "RelativeDocumentMoniker": "I1_Airports\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\\u0418\u0441\u043F\u0438\u0442\u043D\u0438\\I1_Airports\\I1_Airports\\Form1.cs",
+              "RelativeToolTip": "I1_Airports\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:14:30.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\\u0418\u0441\u043F\u0438\u0442\u043D\u0438\\I1_Airports\\I1_Airports\\Form1.cs",
+              "RelativeDocumentMoniker": "I1_Airports\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\\u0418\u0441\u043F\u0438\u0442\u043D\u0438\\I1_Airports\\I1_Airports\\Form1.cs [Design]",
+              "RelativeToolTip": "I1_Airports\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:14:27.208Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

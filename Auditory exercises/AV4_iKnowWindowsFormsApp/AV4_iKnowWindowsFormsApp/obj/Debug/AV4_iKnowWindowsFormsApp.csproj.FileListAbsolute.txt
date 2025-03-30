@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\bin\Debug\AV4_iKnowWindowsFormsApp.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\bin\Debug\AV4_iKnowWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\bin\Debug\AV4_iKnowWindowsFormsApp.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\obj\Debug\AV4_iKnowWindowsFormsApp.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\obj\Debug\AV4_iKnowWindowsFormsApp.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\obj\Debug\AV4_iKnowWindowsFormsApp.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\obj\Debug\AV4_iKnowWindowsFormsApp.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\obj\Debug\AV4_iKnowWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\obj\Debug\AV4_iKnowWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV4_iKnowWindowsFormsApp\AV4_iKnowWindowsFormsApp\obj\Debug\AV4_iKnowWindowsFormsApp.pdb

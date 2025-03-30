@@ -1,0 +1,11 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\bin\Debug\K3_ConferenceWindowsFormsApp.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\bin\Debug\K3_ConferenceWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\bin\Debug\K3_ConferenceWindowsFormsApp.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\obj\Debug\K3_ConferenceWindowsFormsApp.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\obj\Debug\K3_ConferenceWindowsFormsApp.AddPaper.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\obj\Debug\K3_ConferenceWindowsFormsApp.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\obj\Debug\K3_ConferenceWindowsFormsApp.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\obj\Debug\K3_ConferenceWindowsFormsApp.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\obj\Debug\K3_ConferenceWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\obj\Debug\K3_ConferenceWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K3_ConferenceWindowsFormsApp\K3_ConferenceWindowsFormsApp\obj\Debug\K3_ConferenceWindowsFormsApp.pdb

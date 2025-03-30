@@ -1,0 +1,12 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\bin\Debug\I2_Busses.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\bin\Debug\I2_Busses.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\bin\Debug\I2_Busses.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.NewBus.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.NewLine.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\Испитни\I2_Busses\I2_Busses\obj\Debug\I2_Busses.pdb

@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\k4_f1windowsformsapp\\k4_f1windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|solutionrelative:k4_f1windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\k4_f1windowsformsapp\\k4_f1windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|solutionrelative:k4_f1windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\k4_f1windowsformsapp\\k4_f1windowsformsapp\\adddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|solutionrelative:k4_f1windowsformsapp\\adddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\k4_f1windowsformsapp\\k4_f1windowsformsapp\\adddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|solutionrelative:k4_f1windowsformsapp\\adddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\k4_f1windowsformsapp\\k4_f1windowsformsapp\\f1driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|solutionrelative:k4_f1windowsformsapp\\f1driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\k4_f1windowsformsapp\\k4_f1windowsformsapp\\lap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B03AE8B-C65C-40FE-A6E6-8B371177682C}|K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp.csproj|solutionrelative:k4_f1windowsformsapp\\lap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddDriver.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\AddDriver.cs",
+              "RelativeDocumentMoniker": "K4_F1WindowsFormsApp\\AddDriver.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\AddDriver.cs",
+              "RelativeToolTip": "K4_F1WindowsFormsApp\\AddDriver.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAEwDIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:59:58.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lap.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\Lap.cs",
+              "RelativeDocumentMoniker": "K4_F1WindowsFormsApp\\Lap.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\Lap.cs",
+              "RelativeToolTip": "K4_F1WindowsFormsApp\\Lap.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvxUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:53:59.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F1Driver.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\F1Driver.cs",
+              "RelativeDocumentMoniker": "K4_F1WindowsFormsApp\\F1Driver.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\F1Driver.cs",
+              "RelativeToolTip": "K4_F1WindowsFormsApp\\F1Driver.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:52:48.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "K4_F1WindowsFormsApp\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "K4_F1WindowsFormsApp\\Form1.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAEwIsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:51:09.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddDriver.cs [Design]",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\AddDriver.cs",
+              "RelativeDocumentMoniker": "K4_F1WindowsFormsApp\\AddDriver.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\AddDriver.cs [Design]",
+              "RelativeToolTip": "K4_F1WindowsFormsApp\\AddDriver.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:48:02.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "K4_F1WindowsFormsApp\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K4_F1WindowsFormsApp\\K4_F1WindowsFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "K4_F1WindowsFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T11:36:21.101Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

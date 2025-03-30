@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\bin\Debug\K9_ColorRectangles.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\bin\Debug\K9_ColorRectangles.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\bin\Debug\K9_ColorRectangles.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\obj\Debug\K9_ColorRectangles.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\obj\Debug\K9_ColorRectangles.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\obj\Debug\K9_ColorRectangles.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\obj\Debug\K9_ColorRectangles.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\obj\Debug\K9_ColorRectangles.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\obj\Debug\K9_ColorRectangles.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K9_ColorRectangles\K9_ColorRectangles\obj\Debug\K9_ColorRectangles.pdb

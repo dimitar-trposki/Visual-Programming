@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48BEDF8-4AE6-4A96-AAF6-ABEA7B471B4F}|K6_FlyingBalls\\K6_FlyingBalls.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\k6_flyingballs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48BEDF8-4AE6-4A96-AAF6-ABEA7B471B4F}|K6_FlyingBalls\\K6_FlyingBalls.csproj|solutionrelative:k6_flyingballs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48BEDF8-4AE6-4A96-AAF6-ABEA7B471B4F}|K6_FlyingBalls\\K6_FlyingBalls.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\k6_flyingballs\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48BEDF8-4AE6-4A96-AAF6-ABEA7B471B4F}|K6_FlyingBalls\\K6_FlyingBalls.csproj|solutionrelative:k6_flyingballs\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48BEDF8-4AE6-4A96-AAF6-ABEA7B471B4F}|K6_FlyingBalls\\K6_FlyingBalls.csproj|D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\k6_flyingballs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E48BEDF8-4AE6-4A96-AAF6-ABEA7B471B4F}|K6_FlyingBalls\\K6_FlyingBalls.csproj|solutionrelative:k6_flyingballs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48BEDF8-4AE6-4A96-AAF6-ABEA7B471B4F}|K6_FlyingBalls\\K6_FlyingBalls.csproj|d:\\\u0444\u0438\u043D\u043A\u0438\\iv-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0432\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\visualapps\\k6_flyingballs\\k6_flyingballs\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48BEDF8-4AE6-4A96-AAF6-ABEA7B471B4F}|K6_FlyingBalls\\K6_FlyingBalls.csproj|solutionrelative:k6_flyingballs\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\K6_FlyingBalls\\Form1.cs",
+              "RelativeDocumentMoniker": "K6_FlyingBalls\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\K6_FlyingBalls\\Form1.cs",
+              "RelativeToolTip": "K6_FlyingBalls\\Form1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAqwEYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:45:48.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\K6_FlyingBalls\\Scene.cs",
+              "RelativeDocumentMoniker": "K6_FlyingBalls\\Scene.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\K6_FlyingBalls\\Scene.cs",
+              "RelativeToolTip": "K6_FlyingBalls\\Scene.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:40:34.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\K6_FlyingBalls\\Ball.cs",
+              "RelativeDocumentMoniker": "K6_FlyingBalls\\Ball.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\K6_FlyingBalls\\Ball.cs",
+              "RelativeToolTip": "K6_FlyingBalls\\Ball.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:31:39.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\K6_FlyingBalls\\Form1.cs",
+              "RelativeDocumentMoniker": "K6_FlyingBalls\\Form1.cs",
+              "ToolTip": "D:\\\u0424\u0418\u041D\u041A\u0418\\IV-\u0441\u0435\u043C\u0435\u0441\u0442\u0430\u0440\\\u0412\u0438\u0437\u0443\u0435\u043B\u043D\u043E \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u0430\u045A\u0435\\VisualApps\\K6_FlyingBalls\\K6_FlyingBalls\\Form1.cs [Design]",
+              "RelativeToolTip": "K6_FlyingBalls\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T21:29:30.326Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

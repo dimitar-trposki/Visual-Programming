@@ -1,0 +1,7 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV1_ConsoleApp\AV1_ConsoleApp\bin\Debug\AV1_ConsoleApp.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV1_ConsoleApp\AV1_ConsoleApp\bin\Debug\AV1_ConsoleApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV1_ConsoleApp\AV1_ConsoleApp\bin\Debug\AV1_ConsoleApp.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV1_ConsoleApp\AV1_ConsoleApp\obj\Debug\AV1_ConsoleApp.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV1_ConsoleApp\AV1_ConsoleApp\obj\Debug\AV1_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV1_ConsoleApp\AV1_ConsoleApp\obj\Debug\AV1_ConsoleApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV1_ConsoleApp\AV1_ConsoleApp\obj\Debug\AV1_ConsoleApp.pdb

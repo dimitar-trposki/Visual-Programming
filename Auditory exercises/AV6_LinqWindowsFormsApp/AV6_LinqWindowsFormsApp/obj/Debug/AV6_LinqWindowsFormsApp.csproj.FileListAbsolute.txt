@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\bin\Debug\AV6_LinqWindowsFormsApp.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\bin\Debug\AV6_LinqWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\bin\Debug\AV6_LinqWindowsFormsApp.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\obj\Debug\AV6_LinqWindowsFormsApp.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\obj\Debug\AV6_LinqWindowsFormsApp.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\obj\Debug\AV6_LinqWindowsFormsApp.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\obj\Debug\AV6_LinqWindowsFormsApp.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\obj\Debug\AV6_LinqWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\obj\Debug\AV6_LinqWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV6_LinqWindowsFormsApp\AV6_LinqWindowsFormsApp\obj\Debug\AV6_LinqWindowsFormsApp.pdb

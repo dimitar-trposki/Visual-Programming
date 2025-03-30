@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\bin\Debug\K10_Polygons.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\bin\Debug\K10_Polygons.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\bin\Debug\K10_Polygons.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\obj\Debug\K10_Polygons.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\obj\Debug\K10_Polygons.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\obj\Debug\K10_Polygons.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\obj\Debug\K10_Polygons.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\obj\Debug\K10_Polygons.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\obj\Debug\K10_Polygons.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K10_Polygons\K10_Polygons\obj\Debug\K10_Polygons.pdb

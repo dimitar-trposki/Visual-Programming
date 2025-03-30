@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\obj\Debug\K8_PulsingCircles.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\obj\Debug\K8_PulsingCircles.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\obj\Debug\K8_PulsingCircles.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\obj\Debug\K8_PulsingCircles.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\obj\Debug\K8_PulsingCircles.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\bin\Debug\K8_PulsingCircles.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\bin\Debug\K8_PulsingCircles.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\bin\Debug\K8_PulsingCircles.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\obj\Debug\K8_PulsingCircles.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K8_PulsingCircles\K8_PulsingCircles\obj\Debug\K8_PulsingCircles.pdb

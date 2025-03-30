@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\bin\Debug\AV8_DrawingShapes.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\bin\Debug\AV8_DrawingShapes.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\bin\Debug\AV8_DrawingShapes.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\obj\Debug\AV8_DrawingShapes.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\obj\Debug\AV8_DrawingShapes.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\obj\Debug\AV8_DrawingShapes.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\obj\Debug\AV8_DrawingShapes.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\obj\Debug\AV8_DrawingShapes.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\obj\Debug\AV8_DrawingShapes.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV8_DrawingShapes\AV8_DrawingShapes\obj\Debug\AV8_DrawingShapes.pdb

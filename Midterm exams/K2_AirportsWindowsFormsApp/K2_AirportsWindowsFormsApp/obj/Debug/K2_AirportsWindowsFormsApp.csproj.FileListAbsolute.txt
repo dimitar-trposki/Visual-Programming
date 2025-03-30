@@ -1,0 +1,12 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\bin\Debug\K2_AirportsWindowsFormsApp.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\bin\Debug\K2_AirportsWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\bin\Debug\K2_AirportsWindowsFormsApp.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.AddNewAirport.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.AddNewDestination.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.FormAirports.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K2_AirportsWindowsFormsApp\K2_AirportsWindowsFormsApp\obj\Debug\K2_AirportsWindowsFormsApp.pdb

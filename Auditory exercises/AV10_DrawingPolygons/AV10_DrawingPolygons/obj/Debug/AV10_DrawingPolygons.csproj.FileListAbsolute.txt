@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\obj\Debug\AV10_DrawingPolygons.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\obj\Debug\AV10_DrawingPolygons.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\obj\Debug\AV10_DrawingPolygons.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\obj\Debug\AV10_DrawingPolygons.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\obj\Debug\AV10_DrawingPolygons.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\bin\Debug\AV10_DrawingPolygons.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\bin\Debug\AV10_DrawingPolygons.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\bin\Debug\AV10_DrawingPolygons.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\obj\Debug\AV10_DrawingPolygons.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV10_DrawingPolygons\AV10_DrawingPolygons\obj\Debug\AV10_DrawingPolygons.pdb

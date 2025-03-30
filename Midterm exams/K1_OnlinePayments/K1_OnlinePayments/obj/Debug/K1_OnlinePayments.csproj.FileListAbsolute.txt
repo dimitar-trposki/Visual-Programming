@@ -1,0 +1,11 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\bin\Debug\K1_OnlinePayments.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\bin\Debug\K1_OnlinePayments.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\bin\Debug\K1_OnlinePayments.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\obj\Debug\K1_OnlinePayments.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\obj\Debug\K1_OnlinePayments.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\obj\Debug\K1_OnlinePayments.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\obj\Debug\K1_OnlinePayments.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\obj\Debug\K1_OnlinePayments.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\obj\Debug\K1_OnlinePayments.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\obj\Debug\K1_OnlinePayments.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K1_OnlinePayments\K1_OnlinePayments\obj\Debug\K1_OnlinePayments.AddStudentForm.resources

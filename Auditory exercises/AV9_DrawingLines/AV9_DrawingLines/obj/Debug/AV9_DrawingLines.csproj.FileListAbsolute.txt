@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\bin\Debug\AV9_DrawingLines.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\bin\Debug\AV9_DrawingLines.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\bin\Debug\AV9_DrawingLines.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\obj\Debug\AV9_DrawingLines.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\obj\Debug\AV9_DrawingLines.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\obj\Debug\AV9_DrawingLines.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\obj\Debug\AV9_DrawingLines.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\obj\Debug\AV9_DrawingLines.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\obj\Debug\AV9_DrawingLines.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV9_DrawingLines\AV9_DrawingLines\obj\Debug\AV9_DrawingLines.pdb

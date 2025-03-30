@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\bin\Debug\K5_HuntingCircles.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\bin\Debug\K5_HuntingCircles.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\bin\Debug\K5_HuntingCircles.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\obj\Debug\K5_HuntingCircles.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\obj\Debug\K5_HuntingCircles.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\obj\Debug\K5_HuntingCircles.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\obj\Debug\K5_HuntingCircles.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\obj\Debug\K5_HuntingCircles.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\obj\Debug\K5_HuntingCircles.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\K5_HuntingCircles\K5_HuntingCircles\obj\Debug\K5_HuntingCircles.pdb

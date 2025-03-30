@@ -1,0 +1,10 @@
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\bin\Debug\AV7_HangmanWindowsFormsApp.exe.config
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\bin\Debug\AV7_HangmanWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\bin\Debug\AV7_HangmanWindowsFormsApp.pdb
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\obj\Debug\AV7_HangmanWindowsFormsApp.csproj.AssemblyReference.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\obj\Debug\AV7_HangmanWindowsFormsApp.Form1.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\obj\Debug\AV7_HangmanWindowsFormsApp.Properties.Resources.resources
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\obj\Debug\AV7_HangmanWindowsFormsApp.csproj.GenerateResource.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\obj\Debug\AV7_HangmanWindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\obj\Debug\AV7_HangmanWindowsFormsApp.exe
+D:\ФИНКИ\IV-семестар\Визуелно програмирање\VisualApps\AV7_HangmanWindowsFormsApp\AV7_HangmanWindowsFormsApp\obj\Debug\AV7_HangmanWindowsFormsApp.pdb
